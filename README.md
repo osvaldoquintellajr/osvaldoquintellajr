@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Osvaldo and it is a pleasure to meet you! 
-[<img align="left" alt="codeSTACKr" width="22px" src="https://www.linkedin.com/in/osvaldo-martins-junior" />][linkdedin]
+[<img align="left" alt="osvaldoquintellajr" width="22px" src="https://www.linkedin.com/in/osvaldo-martins-junior" />][linkedin]
 About me:
 - 📚 Ph.D. Student.
 - 💹 Economist. 
