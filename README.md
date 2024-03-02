@@ -12,8 +12,8 @@ https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/2d31c99
 ##
 
 ### Connect with me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/osvaldo-martins-junior/" target="_blanck"><img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/2d31c994-a543-45a3-86cf-bc0dca50c201" width="360px" target="_blanck"></a>
+<div>
+  <a href="https://www.linkedin.com/in/osvaldo-martins-junior/" target="_blanck"><img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/2d31c994-a543-45a3-86cf-bc0dca50c201" width="360px" target="_blanck"></a>  
   <a href="mailto:osvaldoquintellajr@gmail.com" target="_blanck"><img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/f8109eac-ed03-420d-8d80-96b4b54f16ad" width="360px" target="_blanck"></a>
 </div>
 
