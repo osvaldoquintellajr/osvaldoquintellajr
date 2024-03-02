@@ -16,3 +16,10 @@ https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/2d31c99
   <a href="https://www.linkedin.com/in/osvaldo-martins-junior/" target="_blanck"><img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/302cda99-60c1-4a27-a221-5e6ce18c66e7" width="150px" target="_blanck"></a>  
   <a href="mailto:osvaldoquintellajr@gmail.com" target="_blanck"><img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/077968db-4e92-44bd-a902-230f357b675c" width="150px" target="_blanck"></a>
 </div>
+<br>
+
+***
+
+### Some projects I am working on:
+[Educational Data Analysis](https://github.com/osvaldoquintellajr/educational_data_analysis)
+
