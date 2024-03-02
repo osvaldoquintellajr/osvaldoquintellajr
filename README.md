@@ -1,12 +1,15 @@
 ## Hi there 👋
 ### My name is Osvaldo and it is a pleasure to meet you! 
-[<img align="left" alt="osvaldoquintellajr" width="22px" src="https://www.linkedin.com/in/osvaldo-martins-junior" />][linkedin]
+
 About me:
 - 📚 Ph.D. Student.
 - 💹 Economist. 
 - 🖥️ Data Scientist.
 - 📚 Enthusiast learner.
 - 💬 Pronouns: He/Him
+
+### Connect with me:
+[<img align="left" width="22px" src="https://www.linkedin.com/in/osvaldo-martins-junior" />][linkedin]
 
 <!--
 **osvaldoquintellajr/osvaldoquintellajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
