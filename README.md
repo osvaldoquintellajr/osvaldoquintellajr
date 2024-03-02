@@ -12,7 +12,6 @@ About me:
 [![linkedin-112(1)](https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/0b0e16e7-483a-4107-b1bd-b45d480a5597)][1]
 [1]: https://www.linkedin.com/in/osvaldo-martins-junior/
 
-[<img align="left" width="22px" src="https://www.linkedin.com/in/osvaldo-martins-junior" />][linkedin]
 
 <!--
 **osvaldoquintellajr/osvaldoquintellajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
