@@ -8,7 +8,6 @@ About me:
 - 🖥️ Data Scientist.
 - 📚 Enthusiast learner.
 - 💬 Pronouns: He/Him
-https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/2d31c994-a543-45a3-86cf-bc0dca50c201
 ##
 
 ### Connect with me:
