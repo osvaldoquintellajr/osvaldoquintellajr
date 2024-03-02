@@ -10,8 +10,10 @@ About me:
 
 
 ### Connect with me:
+<div align="center">
+  <img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/e1d0eae6-3d72-465b-8b7d-af98f98145b9" width="720px" />
+</div>
 
-![ícone_linkedin](https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/e1d0eae6-3d72-465b-8b7d-af98f98145b9)
 
 
 **osvaldoquintellajr/osvaldoquintellajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
