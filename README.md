@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 ### My name is Osvaldo and it is a pleasure to meet you! 
 
 About me:
@@ -8,10 +9,11 @@ About me:
 - 📚 Enthusiast learner.
 - 💬 Pronouns: He/Him
 
+##
 
 ### Connect with me:
 <div align="center">
-  <img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/e1d0eae6-3d72-465b-8b7d-af98f98145b9" width="360px" />
+  <a hrf="https://www.linkedin.com/in/osvaldo-martins-junior/" target="_blanck"><img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/e1d0eae6-3d72-465b-8b7d-af98f98145b9" width="360px" target="_blanck"></a>
 </div>
 
 
