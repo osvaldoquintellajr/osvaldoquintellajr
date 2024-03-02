@@ -1,4 +1,10 @@
 ### Hi there 👋
+About me:
+- 📚 Ph.D. Student.
+- 💹 Economist. 
+- 🖥️ Data Scientist.
+- 📚 Enthusiast learner.
+- 💬 Pronouns: He/Him
 
 <!--
 **osvaldoquintellajr/osvaldoquintellajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
