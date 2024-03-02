@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Osvaldo and it is a pleasure to meet you! []
+### My name is Osvaldo and it is a pleasure to meet you! [https://www.linkedin.com/in/osvaldo-martins-junior/]
 About me:
 - 📚 Ph.D. Student.
 - 💹 Economist. 
