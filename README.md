@@ -1,4 +1,4 @@
-## Hi there 👋
+![ícone_linkedin](https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/59053675-5de1-4d04-b5a3-71554ccb3339)## Hi there 👋
 ### My name is Osvaldo and it is a pleasure to meet you! 
 
 About me:
@@ -9,8 +9,8 @@ About me:
 - 💬 Pronouns: He/Him
 
 ### Connect with me:
-![ícone_linkedin](https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/cbbda0fc-14b4-4354-af30-5e22e744ffa8)
 
+![ícone_linkedin](https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/2399fa5a-bd06-44e5-a48f-68e6a6cc32c6)
 
 <!--
 **osvaldoquintellajr/osvaldoquintellajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
