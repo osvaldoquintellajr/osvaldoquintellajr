@@ -9,8 +9,7 @@ About me:
 - 💬 Pronouns: He/Him
 
 ### Connect with me:
-[![linkedin-112(1)](https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/0b0e16e7-483a-4107-b1bd-b45d480a5597)][(https://www.linkedin.com/in/osvaldo-martins-junior/)]
-
+![ícone_linkedin](https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/cbbda0fc-14b4-4354-af30-5e22e744ffa8)
 
 
 <!--
