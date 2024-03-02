@@ -1,4 +1,4 @@
-![ícone_linkedin](https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/59053675-5de1-4d04-b5a3-71554ccb3339)## Hi there 👋
+## Hi there 👋
 ### My name is Osvaldo and it is a pleasure to meet you! 
 
 About me:
