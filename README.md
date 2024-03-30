@@ -22,3 +22,5 @@ About me:
 ### Some projects I am working on:
 [Educational Data Analysis](https://github.com/osvaldoquintellajr/educational_data_analysis)
 
+[Time_series_financial_data](https://github.com/osvaldoquintellajr/time_series_financial_data)
+
