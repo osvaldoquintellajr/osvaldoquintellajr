@@ -29,3 +29,5 @@ About me:
 [Retorno habitual médio por nível de instrução com dados da PNADc](https://github.com/osvaldoquintellajr/Retorno-medio-habitual-por-nivel-de-instrucao)
 
 [Informações descritivas da RAIS_2023_Parcial](https://github.com/osvaldoquintellajr/RAIS_2023_Parcial_Dados_Descritivos)
+
+[Informações descritivas do Censo SUAS 2016](https://osvaldoquintellajr.github.io/Censo-SUAS-2016)
