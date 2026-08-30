@@ -20,6 +20,9 @@ About me:
 ***
 
 ### Some projects I am working on:
+
+[Sobre-educados no mercado formal no Brasil](https://github.com/osvaldoquintellajr/Sobre-educados-RAIS)
+
 [Educational Data Analysis](https://github.com/osvaldoquintellajr/educational_data_analysis)
 
 [Mapa interativo com os resultados IDEB _2023](https://github.com/osvaldoquintellajr/resultados_IDEB_2023)
