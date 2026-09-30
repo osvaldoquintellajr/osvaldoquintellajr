@@ -3,34 +3,41 @@
 ### My name is Osvaldo and it is a pleasure to meet you! 
 
 About me:
-- 📚 Ph.D. Student.
+
+I am an Economist (Ph.D.) and Accountant with a passion for Data Science. I combine rigorous econometric inference with machine learning to solve business problems. Currently focused on R, SQL, and Tidy Modeling.
+
+- 📚 Ph.D. in Economics.
 - 💹 Economist. 
-- 🖥️ Data Scientist.
-- 📚 Enthusiast learner.
+- 🖥️ Data Scientist focsed on R, SQL, and Causal Inference.
+- 📚 Lifelong learner
 - 💬 Pronouns: He/Him
-##
 
-### Connect with me:
-<div>
-  <a href="https://www.linkedin.com/in/osvaldo-martins-junior/" target="_blanck"><img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/302cda99-60c1-4a27-a221-5e6ce18c66e7" width="150px" target="_blanck"></a>  
-  <a href="mailto:osvaldoquintellajr@gmail.com" target="_blanck"><img src="https://github.com/osvaldoquintellajr/osvaldoquintellajr/assets/71340036/077968db-4e92-44bd-a902-230f357b675c" width="150px" target="_blanck"></a>
-</div>
-<br>
+I combine rigorous econometric inference with machine learning to solve business and public policy problems. 
 
-***
+** Connect with me: **
 
-### Some projects I am working on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
-[Sobre-educados no mercado formal no Brasil](https://github.com/osvaldoquintellajr/Sobre-educados-RAIS)
+---
+
+### 🛠️ Tech Stack & Skills
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📌 Featured Projects
+
+[Análise da evolução do prêmio salarial educacional no Brasil com dados da PNADc e modelos de regressão com desenho amostral complexo (R, Survey, tidyverse)](https://github.com/osvaldoquintellajr/Retorno-medio-habitual-por-nivel-de-instrucao)
+
+[Análise da taxa de sobreeducação no mercado formal no Brasil com dados públicos da Relação Anual de Informações Sociais (RAIS)](https://github.com/osvaldoquintellajr/Sobre-educados-RAIS)
 
 [Educational Data Analysis](https://github.com/osvaldoquintellajr/educational_data_analysis)
 
 [Mapa interativo com os resultados IDEB _2023](https://github.com/osvaldoquintellajr/resultados_IDEB_2023)
 
 [Time_series_financial_data](https://github.com/osvaldoquintellajr/time_series_financial_data)
-
-[Retorno habitual médio por nível de instrução com dados da PNADc](https://github.com/osvaldoquintellajr/Retorno-medio-habitual-por-nivel-de-instrucao)
-
-[Informações descritivas da RAIS_2023_Parcial](https://github.com/osvaldoquintellajr/RAIS_2023_Parcial_Dados_Descritivos)
 
 [Informações descritivas do Censo SUAS 2016](https://osvaldoquintellajr.github.io/Censo-SUAS-2016)
