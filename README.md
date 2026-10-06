@@ -30,7 +30,7 @@ I combine rigorous econometric inference with machine learning to solve business
 
 ### 📌 Featured Projects
 
-[Análise da evolução do prêmio salarial educacional no Brasil com dados da PNADc e modelos de regressão com desenho amostral complexo (R, Survey, tidyverse)](https://github.com/osvaldoquintellajr/Retorno-medio-habitual-por-nivel-de-instrucao)
+[Análise do prêmio salarial educacional no Brasil com dados da PNADc e modelos de regressão com desenho amostral complexo (R, Survey, tidyverse)](https://github.com/osvaldoquintellajr/Retorno-medio-habitual-por-nivel-de-instrucao)
 
 [Análise da taxa de sobreeducação no mercado formal no Brasil com dados públicos da Relação Anual de Informações Sociais (RAIS)](https://github.com/osvaldoquintellajr/Sobre-educados-RAIS)
 
